@@ -13,6 +13,10 @@ https://stackoverflow.com/questions/79374833/how-to-make-lines-between-stack-bar
 Solution by michiel-duvekot
 https://stackoverflow.com/users/4665356/michiel-duvekot
 
+hi res graph output
+https://tinyurl.com/kjz79ydb
+https://github.com/rogerjdeangelis/utl-how-to-make-lines-between-stack-bar-charts-plot-graph/blob/main/bars.png
+
 /*               _     _
  _ __  _ __ ___ | |__ | | ___ _ __ ___
 | `_ \| `__/ _ \| `_ \| |/ _ \ `_ ` _ \
