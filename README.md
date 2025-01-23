@@ -1,5 +1,3 @@
-# utl-how-to-make-lines-between-stack-bar-charts-plot-graph
-How to make lines between stack bar charts? plot graph
     %let pgm=utl-how-to-make-lines-between-stack-bar-charts-plot-graph;
 
     How to make lines between stack bar charts? plot graph
@@ -14,6 +12,10 @@ How to make lines between stack bar charts? plot graph
 
     Solution by michiel-duvekot
     https://stackoverflow.com/users/4665356/michiel-duvekot
+
+    hi res graph output
+    https://tinyurl.com/kjz79ydb
+    https://github.com/rogerjdeangelis/utl-how-to-make-lines-between-stack-bar-charts-plot-graph/blob/main/bars.png
 
     /*               _     _
      _ __  _ __ ___ | |__ | | ___ _ __ ___
@@ -252,3 +254,4 @@ How to make lines between stack bar charts? plot graph
      \___|_| |_|\__,_|
 
     */
+
